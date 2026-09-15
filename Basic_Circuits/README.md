@@ -2,7 +2,7 @@
 
 
 ## Basic Circuits
-### 1. LED Circuit
+### 1. LED Circuit!
 #### Components Used
 1. 330 Ohm Resistor
 2. LED
@@ -14,7 +14,7 @@
 #### Breadboard
 <img width="300" height="450" alt="breadboard of led" src="Images/led_circ.png" />
 
-### 2. Push Button LED
+### 2. Push Button LED!
 #### Components Used
 1. Push Button
 2. LED
@@ -27,7 +27,7 @@
 #### Breadboard
 <img width="300" height="450" alt="breadboard of led" src="Images/LED_examp_circ.png" />
 
-### 3. Brightness Control
+### 3. Brightness Control!
 #### Components Used
 1. Potentiometer
 2. LED
@@ -38,6 +38,27 @@
 
 #### Breadboard
 <img width="300" height="450" alt="breadboard of led" src="Images/brightness_circ.png" />
+
+## Advance Circuits
+### 4. 15 Volts to 5 Volts!
+#### Components Used
+1. L7805CV
+2. 6 Jumper wires
+3. 0.33µF Capacitor
+4. 0.1µF Capacitor
+
+#### Breadboard
+<img width="300" height="450" alt="breadboard of led" src="Images/" />
+
+### 5. 
+#### Components Used
+1. 
+
+#### Simulator
+<img width="300" height="450" alt="simulation of led" src="Images/" />
+
+#### Breadboard
+<img width="300" height="450" alt="breadboard of led" src="Images/" />
 
 
 ## Sources
