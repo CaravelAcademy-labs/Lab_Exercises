@@ -1,4 +1,4 @@
-# Introduction to Breadboards <br>
+# Breadboard Circuits <br>
 
 
 ## Basic Circuits
