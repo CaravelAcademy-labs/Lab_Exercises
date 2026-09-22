@@ -33,6 +33,8 @@
 - CAREFUL 120V CAN KILL
 - **DO NOT TAKE APART WITHOUT SUPERVISION FROM CHRIS**
 
+#### Record Player
+- will turn on, wont spin
 
 
 ## Spare Items
