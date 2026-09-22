@@ -21,7 +21,19 @@
 <img width="500" height="550" alt="Board" src="Images/" />
 
 #### Confirm the Sony BlueRay player Works
-- 
+- looks like it turns on and can eject
+- confirm read and output
+
+#### Sony blueray player BROKE
+- cant open/close dvd drive
+- motor trying?
+
+#### Reetro Stereo (Learn about safely working with high voltage)
+- No power
+- CAREFUL 120V CAN KILL
+- **DO NOT TAKE APART WITHOUT SUPERVISION FROM CHRIS**
+
+
 
 ## Spare Items
 
